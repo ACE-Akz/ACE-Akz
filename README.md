@@ -22,8 +22,9 @@ I am a student <br>
 
 ### 🛠️ Tools
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)# 
-📊 GitHub Stats:
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ACE-Akz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ACE-Akz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACE-Akz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
